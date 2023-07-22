@@ -33,6 +33,7 @@ Topic modeling was conducted to identify key themes present in the tweets relate
 * Amazon
 * Shopping
 * Sentiment Results
+  
 The overall sentiment towards ChatGPT on Twitter was found to be positive. Users generally expressed positive opinions and experiences related to the language model. However, it was observed that the least positive tweets were associated with Cybersecurity, suggesting potential concerns or negative feedback in this area.
 
 ## Conclusion
